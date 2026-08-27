@@ -1,0 +1,5 @@
+train: D:\projects\facec detection\Face_detection\images\train
+val: D:\projects\facec detection\Face_detection\images\val
+
+nc: 1
+names: ['Face']
