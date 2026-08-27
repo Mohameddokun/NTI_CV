@@ -5,7 +5,7 @@ An end-to-end Computer Vision pipeline featuring **YOLOv8** for real-time face l
 - Ahmed Badawy Mohamed Hamdy
 - Mohamed Ahmed Ibrahim Hassan
 - Mohamed Ahmed Kamal El din
-- Hassan Ali Mohamed
+- Hassan Mohamed Ali
 - Mohamed Mahmoud Shahin
 - Amr Ayman Abd El-Raouf 
 
